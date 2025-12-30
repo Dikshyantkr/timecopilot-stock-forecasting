@@ -1,14 +1,8 @@
-# Virtual environment
 venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
-# Generated data
-data/forecasts/
 data/stocks/
+data/forecasts/
 
-# OS files
-.DS_Store
-Thumbs.db
+.env
