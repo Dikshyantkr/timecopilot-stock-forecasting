@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated data
+data/forecasts/
+data/stocks/
+
+# OS files
+.DS_Store
+Thumbs.db
